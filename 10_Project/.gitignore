@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pt
+*.mp4
+frames/
+snapshots/
+프로젝트_최종/통합 코드모음/02_데이터·실험/synthetic/out*/*.jpg
+*.avi
+*.tar
+*.mat
+프로젝트_최종/통합 코드모음/06_통합실행/결과/
